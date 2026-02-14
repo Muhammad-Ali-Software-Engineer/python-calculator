@@ -59,9 +59,9 @@ Sum of 5.0 & 10.0 = 15.0
 🏫 University of Gujrat <br>
 📍 Pakistan  
 
->  🔗 GitHub: https://github.com/Muhammad-Ali-Software-Engineer <br>
->  💼 LinkedIn: https://linkedin.com/in/Muhammad-Ali-Software-Engineer <br> 
->  📧 Email: MuhammadAliOfficial75@gmail.com | info.alideveloper@gmail.com <br>
+>  🔗 **GitHub**: https://github.com/Muhammad-Ali-Software-Engineer <br>
+>  💼 **LinkedIn**: https://linkedin.com/in/Muhammad-Ali-Software-Engineer <br> 
+>  📧 **Email**: MuhammadAliOfficial75@gmail.com | info.alideveloper@gmail.com <br>
 
 
 Passionate about Python, Software Engineering, and building projects to strengthen programming concepts.
