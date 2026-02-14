@@ -48,3 +48,22 @@ Enter number 1: 5
 Enter number 2: 10
 Sum of 5.0 & 10.0 = 15.0
 ```
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Ali**  
+💻 Frontend Developer | UI/UX Designer | Python Enthusiast <br>
+🎓 BS Software Engineering Student  
+🏫 University of Gujrat <br>
+📍 Pakistan  
+
+> - 🔗 GitHub: https://github.com/Muhammad-Ali-Software-Engineer
+> - 💼 LinkedIn: https://linkedin.com/in/Muhammad-Ali-Software-Engineer
+> - 📧 Email: MuhammadAliOfficial75@gmail.com | info.alideveloper@gmail.com
+
+
+Passionate about Python, Software Engineering, and building projects to strengthen programming concepts.
+
+---
