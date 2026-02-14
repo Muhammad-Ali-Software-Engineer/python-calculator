@@ -51,9 +51,9 @@ Sum of 5.0 & 10.0 = 15.0
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Muhammad Ali**  
+## Muhammad Ali
 💻 Frontend Developer | UI/UX Designer | Python Enthusiast <br>
 🎓 BS Software Engineering Student  
 🏫 University of Gujrat <br>
